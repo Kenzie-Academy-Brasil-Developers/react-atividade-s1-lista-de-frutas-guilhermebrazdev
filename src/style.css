@@ -1,0 +1,11 @@
+#price {
+  color: gold;
+}
+
+#botao {
+  height: 30px;
+  border: 2px solid purple;
+  background: rebeccapurple;
+  font-family: "Courier New", Courier, monospace;
+  color: whitesmoke;
+}
